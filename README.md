@@ -1,6 +1,5 @@
 # burger-buns
 
-hello
 
 
 * [github](#github)

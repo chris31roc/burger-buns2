@@ -1,0 +1,52 @@
+#body {
+    background-image: url("https://previews.123rf.com/images/deepfuze/deepfuze1602/deepfuze160200034/52584714-seamless-pattern-with-tasty-burger-on-a-blue-background.jpg");
+    background-color: rgb(55, 226, 226);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#inputDiv {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.btn-primary {
+    padding: 15px;
+    margin: auto;
+    margin-left: 40%;
+}
+
+
+.input-group {
+    padding-bottom: 20px;
+}
+
+#h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 95px;
+    background-color: rgba(72, 177, 177, 0.192);
+    margin-top: 10px;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+
+}
+
+h5 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+@media only screen and (max-width: 1024px) {
+    
+    #body {
+        margin-left: 2%;
+        margin-right: 0%;
+    }
+
+}
