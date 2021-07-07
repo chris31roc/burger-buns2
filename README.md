@@ -1,4 +1,4 @@
-# Work Day Calendar
+# Burger Buns
 
 ![Photo of Application](./public/assets/burger-app.png)
 
